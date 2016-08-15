@@ -1,0 +1,16 @@
+{
+  "name": "calculatorchallenge",
+  "version": "1.0.0",
+  "description": "weekend 3 challenge",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Malwitz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
